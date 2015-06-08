@@ -13,6 +13,5 @@ the `TwentyFortyEight` class. The signature (name and parameters) of the functio
 must remain unchanged, but you may add any additional functions, methods, or other code that you need to.
 
 
-### result
-This is my final version of [.py file](http://www.codeskulptor.org/#user40_wGJcrYILwL_7.py). It can be executed on the website by 
-click the upper-left triangular button.
+### Result
+This is my final version of [.py file](http://www.codeskulptor.org/#user40_wGJcrYILwL_7.py). It can be executed on the website by click the upper-left triangular button.
