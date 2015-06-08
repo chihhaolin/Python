@@ -18,4 +18,5 @@ for your part of the mini-project, we will provide only a very minimal amount of
 [starting code](http://www.codeskulptor.org/#poc_ttt_template.py). We will also dispense with the phased description of the implementation process so that your coding task for this mini-project is a more 
 realistic example of the software development process.
 
-###
+### Result
+This is my final version of [.py file](http://www.codeskulptor.org/#user40_45O1FsxFyD_3.py). It can be executed on the website by click the upper-left triangular button.
